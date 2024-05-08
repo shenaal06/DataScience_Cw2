@@ -1,11 +1,7 @@
 streamlit
-plotly-express
-plotly
 pandas
-os
-networkx
-matplotlib.pyplot
-association_rules, apriori
+matplotlib
+mlxtend 
+plotly
+openpyxl
 seaborn
-plotly.graph_objects
-warnings

@@ -1,5 +1,6 @@
 # Importing the libraries
 import streamlit as st
+import plotly as pt
 import plotly.express as px
 import pandas as pd
 import networkx as nx
